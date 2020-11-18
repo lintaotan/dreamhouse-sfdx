@@ -1,7 +1,7 @@
 public with sharing class BotController {
 
     class HandlerMapping {
-        
+        //test
         public String handlerClassName;
         public Pattern utterancePattern;
 
